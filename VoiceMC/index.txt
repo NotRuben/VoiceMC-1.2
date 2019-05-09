@@ -1,0 +1,54 @@
+<html lang="en">
+
+  <head>
+    <meta charset="UTF-8">
+    <title>VoiceMC</title>
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <html lang="en">
+  <link rel="icon" href="https://cdn.discordapp.com/attachments/571150893756448781/575447283693387806/VoiceMClogo.ico">
+  <header>
+    <div align="center">
+      <font size="+3">
+        <strong>
+      <text>
+     <font color="#ff0000">
+  Voice</font><font color="#0099ff">MC</font>
+      </text>
+    </strong>
+      </font>
+    </div>
+  </header>
+
+  <body>
+
+    <div align="center">
+
+
+
+      <button onclick="location.href='VoiceMC%20Towny/index.html'" class="btn draw-border" style="margin:5px"> <font color="#cccc00" type="buttonr">
+  Towny</font></button>
+
+
+      <button onclick="location.href='../index.html'" class="btn draw-border" style="margin:5px"> <font color="#9933ff">
+  mini games</font></button>
+
+
+
+
+      <button onclick="location.href='VoiceMC%20Towny/Towny%20Ranks/index.html'" class="btn draw-border" style="margin:5px"> <font color="#66ff33" type="buttonr">
+Ranks</font></button>
+
+
+      <form name="select_all">
+        <font size="+3">
+          <textarea name="text_area" rows="1" cols="20" readonly resize="none" onClick="javascript:this.form.text_area.focus();this.form.text_area.select();">play.novoicechanger.com</textarea>
+      </form>
+      </font>
+
+  </body>
+
+  <br>
+
+
+  </html>
